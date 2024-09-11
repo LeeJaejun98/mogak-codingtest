@@ -8,10 +8,10 @@ spring:
 
   data:
     redis:
-      host:
-      port:
+      host: redis-16710.c340.ap-northeast-2-1.ec2.redns.redis-cloud.com
+      port: 16710
       username:
-      password:
+      password: 3nuJOQn5kC5iuvc8251VW2CwkkugF4Pb
 
   security:
     jwt:
